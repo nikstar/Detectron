@@ -44,7 +44,7 @@ DATASETS = {
             _DATA_DIR + '/kitti/annotations/train.json',
         RAW_DIR:
             _DATA_DIR + '/kitti/raw'
-    }
+    },
     'cityscapes_fine_instanceonly_seg_train': {
         IM_DIR:
             _DATA_DIR + '/cityscapes/images',
